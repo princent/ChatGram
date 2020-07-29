@@ -1,4 +1,6 @@
 ChatGram
+
+
 A Chatting based Android Application that implements the following features :-
 
 
@@ -21,6 +23,7 @@ Group Chat and create groups
 Online Status and last seen
 
 Text ,Image sharing
+
 
 
 #Tools Used are:-
